@@ -1,0 +1,26 @@
+{
+  "name": "accurateagecalculator",
+  "version": "1.0.0",
+  "description": "JavaScript Library which accepts the date in Date  or string (dd/mm/yyyy or dd.mm.yyyy or dd-mm-yyyy) and returns the completed age in year, if sent date is valid otherwise returns string \"inavlid age\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neetra/agecalculator.git"
+  },
+  "keywords": [
+    "modules",
+    "stdlib",
+    "util",
+    "utility",
+    "node"
+  ],
+  "author": "Netra Amrale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neetra/agecalculator/issues"
+  },
+  "homepage": "https://github.com/neetra/agecalculator#readme"
+}
